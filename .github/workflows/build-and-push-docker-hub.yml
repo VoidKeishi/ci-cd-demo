@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: VoidKeishi/ci-cd:staging2
+          tags: voidkeishi/ci-cd:staging2
 
 
   pull-and-up:
