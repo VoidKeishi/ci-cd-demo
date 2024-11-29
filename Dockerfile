@@ -8,7 +8,7 @@ RUN npm install
 
 COPY bundle.js ./
 
-EXPOSE 8000
+EXPOSE 7000
 
 ENTRYPOINT [ "node" ]
 
